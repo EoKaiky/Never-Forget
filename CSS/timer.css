@@ -1,0 +1,54 @@
+.hour, .minute, .second{
+    font-size: 20px;
+    padding-right: 20px;
+    color: white;
+}
+
+#hour, #minute, #second {
+    font-size: 13px;
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    border: none;
+    border-width: 1px;
+}
+
+.timer {
+    font-size: 70px;
+    text-align: center;
+    color: rgb(255, 42, 0);
+    font-weight: 700;
+}
+
+.começar {
+    font-size: 13px;
+    background-color: rgb(255, 42, 0);
+    border-radius: 10px;
+    padding: 10px 15px;
+    margin: 10px auto 0;
+    text-align: center;
+    border: none;
+    max-width: 80px;
+    color: white;
+}
+
+.align-inputs {
+    display: flex;
+    justify-content: center;
+}
+
+.inputs-container {
+    margin: 5px;
+}
+
+.modoFoco {
+    font-size: 13px;
+    background-color: rgb(255, 42, 0);
+    border-radius: 10px;
+    padding: 10px 15px;
+    margin: 25px auto 10px;
+    text-align: center;
+    border: none;
+    max-width: 80px;
+    color: white;
+}
